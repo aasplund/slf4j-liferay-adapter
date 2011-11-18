@@ -29,7 +29,7 @@ import org.slf4j.helpers.MessageFormatter;
 import com.liferay.portal.kernel.log.Log;
 
 /**
- * @author anders
+ * @author Anders Asplund
  *
  */
 public class LiferayLoggerAdapter extends MarkerIgnoringBase {

@@ -27,7 +27,7 @@ import org.slf4j.spi.LoggerFactoryBinder;
 
 
 /**
- * @author anders
+ * @author Anders Asplund
  * 
  */
 public class StaticLoggerBinder implements LoggerFactoryBinder {

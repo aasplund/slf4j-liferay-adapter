@@ -32,7 +32,7 @@ import com.liferay.portal.kernel.log.Log;
 import com.liferay.portal.kernel.log.LogFactoryUtil;
 
 /**
- * @author anders
+ * @author Anders Asplund
  *
  */
 public class LiferayLoggerFactory implements ILoggerFactory {
